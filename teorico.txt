@@ -20,3 +20,5 @@
 9 (QSpinBox) (QSlider)
 
 10
+
+https://github.com/ChewyDonnut/Evaluacion__Tpa
